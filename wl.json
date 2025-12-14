@@ -1,23 +1,42 @@
 {
-  "Crusader": {
-    "10163603": true
-  },
-  "Meaty": {
-    "10163603": true
-  },
-  "Hornet": {
-    "10163603": true
-  },
-  "Edgerunner": {
-    "10163603": true
-  },
-  "Gebura": {
-    "10163603": true
-  },
-  "Jimpee": {
-    "10163603": true
-  },
-  "Invisible": {
-    "10163603": true
-  }
+    "Crusader": {
+        "10163603": true,
+        "7147640191": true
+    },
+    "Meaty": {
+        "10163603": true,
+        "7147640191": true
+    },
+    "Hornet": {
+        "10163603": true,
+        "7147640191": true
+    },
+    "Edgerunner": {
+        "10163603": true,
+        "7147640191": true
+    },
+    "Gebura": {
+        "10163603": true,
+        "7147640191": true
+    },
+    "Jimpee": {
+        "10163603": true,
+        "7147640191": true
+    },
+    "Invisible": {
+        "10163603": true,
+        "7147640191": true
+    },
+    "Developer Panel": {
+        "10163603": true,
+        "7147640191": true
+    },
+    "Staff Panel": {
+        "10163603": true,
+        "7147640191": true
+    },
+    "Cursed Child Boss Moves": {
+        "10163603": true,
+        "7147640191": true
+    }
 }
